@@ -41,7 +41,7 @@ const Homepage = ({ projekRef }) => {
             className="text-lg md:text-xl text-white bg-violet-500 px-6 md:px-8 py-3 rounded-full hover:bg-violet-600 transition duration-300 shadow-md"
             onClick={scrollToProjects}
           >
-            Lihat Projek Saya
+            Lihat Projek
           </button>
         </div>
       </div>
